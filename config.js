@@ -1,8 +1,8 @@
 var api = 'http://127.0.0.1:41311';
 var donationAddress = "";
-var blockTargetInterval = 30;
-var coinUnits = 100;
-var symbol = 'trtl';
+var blockTargetInterval = 240;
+var coinUnits = 100000000;
+var symbol = 'MEAN';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
