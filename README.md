@@ -3,7 +3,7 @@ Block explorer for MeanCoin CryptoNote based cryptocurrency.
 
 #### Installation
 
-1) It takes data from daemon turtlecoind. It should be accessible from the Internet. Run turtlecoind with open port as follows:
+1) It takes data from daemon forknoted. It should be accessible from the Internet. Run turtlecoind with open port as follows:
 ```bash
 ./forknoted --enable-cors="*" --enable_blockexplorer=1 --rpc-bind-ip=0.0.0.0 --rpc-bind-port=41311
 ```
