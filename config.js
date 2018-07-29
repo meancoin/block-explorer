@@ -1,4 +1,4 @@
-var api = 'http://174.138.4.37/explorer';
+var api = 'http://meancoin.org/explorer';
 var donationAddress = "";
 var blockTargetInterval = 240;
 var coinUnits = 100000000;
